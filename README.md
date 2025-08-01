@@ -1,5 +1,6 @@
 <div style="text-align: center;">
-  <h1>Hi there 👋 I am Heba Bou KaedBey</h1>
+  <h1>Hi there 👋, I am Heba Bou KaedBey</h1>
+  <h2>A PhD Candidate in Mathematics at Florida State University</h2>
   <p></p>
 </div>
 
