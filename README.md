@@ -1,6 +1,6 @@
 <div style="text-align: center;">
-  <h1>## Hi there 👋 I am Heba Bou KaedBey</h1>
-  <p>This text is centered.</p>
+  <h1>Hi there 👋 I am Heba Bou KaedBey</h1>
+  <p></p>
 </div>
 
 <!--
